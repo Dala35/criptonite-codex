@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 alert('Obrigado por subscrever a nossa newsletter!');
                 emailInput.value = '';
             } else {
-                alert('Por favor, insira um endereço de e-mail válido.');
+                alert('Por favor, insira um endereço de e-mail válido. dala.cure.os@gmail.com');
             }
         });
     }
