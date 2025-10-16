@@ -17,4 +17,4 @@ Este repositório contém o código para o website do Criptonite Codex, a casa d
 
 ## Contato
 
-Para mais informações, visite [Seu Site] ou entre em contato.
+Para mais informações, visite [https://github.com/Dala35/criptonite-codex/  ] ou entre em contato dala.cure.os@gmail.com
