@@ -1,0 +1,105 @@
+/* Estilos Básicos */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header e Navegação */
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.logo img {
+    height: 40px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+/* Seções */
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#hero {
+    background-color: #eee;
+}
+
+#hero-vendas {
+    background-color: #ddd;
+}
+
+/* Botões */
+.btn {
+    background-color: #555;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-comprar {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+
+/* Newsletter */
+#newsletter form {
+    margin-top: 20px;
+}
+
+#newsletter input {
+    padding: 10px;
+    width: 300px;
+}
+
+/* Preço */
+.preco-regular {
+    color: #888;
+}
+
+.preco-oferta {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.riscado {
+    text-decoration: line-through;
+}
+
+.destaque {
+    color: #4CAF50;
+}
